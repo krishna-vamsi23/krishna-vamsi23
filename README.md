@@ -2,12 +2,6 @@
   <img src="Welcome_GitHub_Banner.gif" alt="Welcome to My GitHub" width="100%">
 </p>
 
-
-
-<p align="center">
-  <img src="Welcome%20Banner.png" alt="Welcome Banner" width="100%">
-</p>
-
 ## About Me
 
 Hi, I'm **Krishna Vamsi**, a Software Engineer and M.Sc. Scientific Instrumentation student at Ernst-Abbe-Hochschule Jena, Germany.
