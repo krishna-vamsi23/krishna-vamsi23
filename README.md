@@ -1,4 +1,4 @@
-![Welcome Banner](Welcome Banner.png)
+![Welcome Banner](Welcome_Banner.png)
 
 ## About Me
 
