@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center"><strong>👋 Hi, I'm Krishna Vamsi Chalamalasetti</strong></h1>
-<h1 align="center"><strong>Data Science enthusiast from India, currently based in Germany and exploring the world of analytics</strong></h2>
+<h2 align="center"><strong>Data Science enthusiast from India, currently based in Germany and exploring the world of analytics</strong></h2>
