@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Welcome_GitHub_Banner.gif" alt="Welcome to My GitHub" width="100%">
+  <img src="Data_Analyst_Workspace.gif" alt="Welcome to My GitHub" width="100%">
 </p>
 
 ## About Me
