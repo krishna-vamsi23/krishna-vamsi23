@@ -1,4 +1,6 @@
-![Welcome Banner](Welcome%20Banner.png)
+<p align="center">
+  <img src="Welcome%20Banner.png" alt="Welcome Banner" width="100%">
+</p>
 
 ## About Me
 
