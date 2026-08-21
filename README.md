@@ -4,3 +4,8 @@
 
 <h1 align="center"><strong>👋 Hi, I'm Krishna Vamsi Chalamalasetti</strong></h1>
 <h3 align="center"><strong>Data Science enthusiast from India, currently based in Germany and exploring the world of analytics</strong></h3>
+
+<p align="center">
+  📫 <strong>Let's connect:</strong>
+  <a href="mailto:krishnavamsichde@gmail.com">Email</a>
+</p>
