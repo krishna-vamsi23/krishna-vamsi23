@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Profile
+![Welcome Banner](Welcome Banner.png)
 
 ## About Me
 
