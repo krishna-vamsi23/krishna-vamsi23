@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="Welcome_GitHub_Banner.gif" alt="Welcome to My GitHub" width="100%">
+</p>
+
+
+
+<p align="center">
   <img src="Welcome%20Banner.png" alt="Welcome Banner" width="100%">
 </p>
 
